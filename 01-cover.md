@@ -1,1 +1,5 @@
-# Welcome to Tech4wildlife
+# Welcome to Tech4wildlife!
+
+:::{image} /images/cover.png
+
+:::

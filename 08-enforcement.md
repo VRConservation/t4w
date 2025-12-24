@@ -1,7 +1,7 @@
 ---
-title: To Be Determined
-subject: Technology for Wildlife Conservation
-subtitle: Additional topics and considerations
+title: Enforcement
+subject: 
+subtitle: How tech can reduce or eliiminate illegal activities around wildlife conservation
 short_title: 5. Enforcement
 date: 2025-12-01
 authors:
@@ -16,7 +16,7 @@ authors:
 license: CC-BY-4.0
 keywords: wildlife conservation, technology, future topics
 abstract: |
-  This chapter is reserved for additional topics and considerations that will be developed as the field evolves. It provides flexibility for addressing emerging issues and incorporating new insights in wildlife technology applications.
+  Focus on enforcement to eliminate illegal wildlife trade but also involve, rather than disenfranchise, local communities.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -28,3 +28,6 @@ exports:
   - format: docx
     output: exports/05-tbd.docx
 ---
+
+Enforcement vs. community-based conservation
+Illegal wildlife trade and eliminating poaching, overconsumption, or land clearing

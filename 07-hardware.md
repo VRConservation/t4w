@@ -28,3 +28,8 @@ exports:
   - format: docx
     output: exports/05-tbd.docx
 ---
+
+
+## Drones
+how to blogs from https://www.techforwildlife.com/index-how-to
+[wings for wildlife book](https://www.dropbox.com/scl/fi/tagsm42xxz984u3z1kedt/Wings-for-Wildlife_2024.pdf?rlkey=iqsdbq0gsgx1ayv3gnavlswe0&e=1&st=apv796u5&dl=0)
