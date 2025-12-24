@@ -5,18 +5,13 @@ subtitle: Looking ahead at future possibilities
 short_title: Forward
 date: 2025-12-01
 authors:
-  - name: Vance Russell
+  - name: 
     affiliations:
-      - 3point.xyz
-    email: info@3point.xyz
-  - name: Christopher Sacco
-    affiliations:
-      - Aegis Conservation
-    email: chris@aegisconservation.com
+
 license: CC-BY-4.0
 keywords: wildlife conservation, technology, future, innovation
 abstract: |
-  This chapter looks forward to the future of technology in wildlife conservation. We examine emerging trends, potential innovations, and the promising directions for applying technology to support wildlife and habitat protection in the coming years.
+  This chapter provides a forward from a prominent tech4wildlife expert or proponent, e.g., Serge Wich or Stephanie O'Donnell.
 kernelspec:
   name: python3
   display_name: Python 3

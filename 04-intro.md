@@ -30,6 +30,11 @@ exports:
 ---
 
 # Tech4wildlife
+About the book
+Why this book?
+Authors
+
+## Audience
 
 ## Interoperability & IoT
 Integration of hardware and software
@@ -43,27 +48,22 @@ Setting up mesh networks and internet of things is critical over a conservation 
 ## Rewilding
 Or make this a caveats section. Truly rewilded self-willed wilderness should not have tech. Also caveats on the use of surveillance, top-down enforceent, and the availability of tech in developing countries.
 
-# Why this book?
-About the book. For authors, see authors
-
-## Audience
-
 ## Chapters
 Sentence summary of each chapter
 
-1. **Introduction**.
-2. **Basics**. What is tech for wildlife and what are the basics for setting it up for monitoring, enforcement, and community-based conservation. 
-3. **Geospatial**. A brief primer on using open source geospatial software and data for conservation and how to integrate geospatial systems with other conservation technology.
-4. **Hardware**. What hardware do you need? How do you diy tech that isn't available? What hardware is available that works off the shelf? Sub-chapters on camera traps, acoustic sensors, eDNA?
-5. **Enforcement**. Using tech to reduce or eliminate illegal wildlife trade, land clearing, and other activities that degrade wild nature.
-6. **AI**. Move closer to front of book? Add machine learning?
+1. 📖 **Introduction**.
+2. 🔧 **Basics**. What is tech for wildlife and what are the basics for setting it up for monitoring, enforcement, and community-based conservation. 
+3. 🗺️ **Geospatial**. A brief primer on using open source geospatial software and data for conservation and how to integrate geospatial systems with other conservation technology.
+4. 🛠️ **Hardware**. What hardware do you need? How do you diy tech that isn't available? What hardware is available that works off the shelf? Sub-chapters on camera traps, acoustic sensors, eDNA?
+5. ⚖️ **Enforcement**. Using tech to reduce or eliminate illegal wildlife trade, land clearing, and other activities that degrade wild nature. **Change name to monitoring?**
+6. 🤖 **AI**. Move closer to front of book? Add machine learning?
 7. TBD
 8. TBD
 9. TBD
-10. **Cases**. 
+10. **Cases**. Cases highlighting tech4wildlife implementation in the field, including what went well, what didn't, and lessons learned.
 
 ## Citation
-Regular and bibtex citations
+Please cite as 
 
 ## Free & Open Source
 Software and hardware and democratization of data
