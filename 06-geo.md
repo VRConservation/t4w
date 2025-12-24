@@ -2,7 +2,7 @@
 title: To Be Determined
 subject: Technology for Wildlife Conservation
 subtitle: Additional topics and considerations
-short_title: TBD
+short_title: 3. Geospatial
 date: 2025-12-01
 authors:
   - name: Vance Russell
