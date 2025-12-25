@@ -5,7 +5,7 @@ subtitle: Looking ahead at future possibilities
 short_title: Forward
 date: 2025-12-01
 authors:
-  - name: 
+  - name: Billy McTechface
     affiliations:
 
 license: CC-BY-4.0

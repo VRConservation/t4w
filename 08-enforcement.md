@@ -1,6 +1,6 @@
 ---
 title: Enforcement
-subject: 
+subject: Hardware
 subtitle: How tech can reduce or eliiminate illegal activities around wildlife conservation
 short_title: 5. Enforcement
 date: 2025-12-01
@@ -29,5 +29,6 @@ exports:
     output: exports/05-tbd.docx
 ---
 
-Enforcement vs. community-based conservation
+Enforcement vs. community-based conservation vs. monitoring
 Illegal wildlife trade and eliminating poaching, overconsumption, or land clearing
+Ethics

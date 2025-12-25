@@ -1,7 +1,7 @@
 ---
-title: To Be Determined
-subject: Technology for Wildlife Conservation
-subtitle: Additional topics and considerations
+title: Hardware tech for conservation
+subject: Hardware
+subtitle: Using the right hardware for monitoring and protection
 short_title: 4. Hardware
 date: 2025-12-01
 authors:

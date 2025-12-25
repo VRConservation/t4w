@@ -1,6 +1,6 @@
 ---
 title: Case Study 1
-subject: Technology for Wildlife Conservation
+subject: Cases
 subtitle: Real-world application example
 short_title: Case Study 1
 date: 2025-12-01
